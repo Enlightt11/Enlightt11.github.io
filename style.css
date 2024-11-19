@@ -1,0 +1,72 @@
+body {
+    background-image: url(2222.jpg);
+    font-family:'Times New Roman';
+}
+#gab {
+    padding: 60px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+header{
+    background: url(ZBIOR-RZECZY-NIE-ZABAWNYCH-19-11-2024\ \(1\).png    );
+    background-size: 7%;
+    }
+#dul {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#suchary {
+    padding: 100px;
+    font-size: 40px;
+    color: white;
+}
+#memy    {
+    padding: 100px;
+    font-size: 40px;
+    color: white;
+    display: inline-block;
+}
+#d1 {
+    color: aquamarine;
+    text-align: center;
+    font-family: Arial;
+}
+#such1 {
+    color: bisque;
+    font-size: 35px;
+    float: left;
+    width: 50%;
+}
+#such2 {
+    color: bisque;
+    font-size: 35px;
+    float: right;
+    width: 40%;
+}
+#such3 {
+    color: bisque;
+    font-size: 35px;
+    float: left;
+    width: 40%;
+    margin-top: 100px;
+}
+
+#such4 {
+    color: bisque;
+    font-size: 35px;
+    float: right;
+    width: 40%;
+    margin-top: 100px;
+}
+#mem2 {
+    float:right ;
+    width: 40%;
+    height: auto;
+    object-fit: cover;
+}
+#mem1 {
+    float: left;
+    width: 60%;
+    height: auto;
+    object-fit: cover;
+}
